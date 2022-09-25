@@ -12,4 +12,6 @@ BOJ 코테 모음
 
 3. git push 로 마무리
 
+4. 새로운 브랜치를 만들고 그 브랜치로 이동하는 명령어
+   git checkout -b test
 
