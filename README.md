@@ -17,3 +17,11 @@ BOJ 코테 모음
 
 5. 브랜치를 합치는방법 merge!!
 
+
+정리 : 
+브랜치 생성은 git checkout -b 브랜치명 
+브랜치 이동은 git checkout 브랜치명 or git switch 브랜치명
+브랜치 합치기는 main 브런치에서 git merge 브랜치명
+충돌해결은 코드고치고 git add & git commit 
+
+6. 깃플로우 전략
